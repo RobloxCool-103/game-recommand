@@ -1,0 +1,141 @@
+<html>
+    <head>
+        <style>
+        li{
+            color:black;
+            background-color: rgb(228, 121, 121);
+            display:inline-block;
+            padding:10px;
+            margin:10px;
+        }
+        nav{
+            background-color: black;
+            text-decoration: none;
+        }
+        nav:hover{
+          background-color: red;
+          color: burlywood;  
+        }
+        h1{
+            text-align: center;
+            color: black;
+        }
+        h1:hover{
+            color: red;
+            Background-color: blue;
+        }
+        h2{
+            text-align: center;
+            color: brown;
+        }
+        h2:hover{
+            color: aqua;
+            Background-color: black;
+        }
+        p{
+            text-align: left;
+            
+            color: beige;
+        }
+        p:hover{
+            color:aquamarine;
+            background-color:brown;
+        }
+        img{
+            width:100%;
+            opacity: 0;
+        }
+        img:hover{
+            opacity: 1;
+        }
+        </style>
+    </head>
+    <body>
+        <nav>
+            <a href="amoutme.html">About us</a>
+            <a href="downloadoropenwebsite.html">Website links</a>
+            <a href="">Contact us</a>
+            </nav>
+        <h1>Recommendation website for games</h1>
+        <h2>1-ROBLOX</h2>
+        <img src="final helper 1">
+              <p>Roblox is an online game platform and game creation system developed by Roblox Corporation that allows users to program games and play games created by other users. Created by David Baszucki and Erik Cassel in 2004 and released in 2006, the platform hosts user-created games of multiple genres coded in the programming language Lua. For most of Roblox's history, it was relatively small, both as a platform and a company. Roblox began to grow rapidly in the second half of the 2010s, and this growth has been accelerated by the COVID-19 pandemic.[7][8]
+                
+                Roblox is free to play. if you want to see which games in roblox are best click here
+                <a href="ronlox recommand.html">click here</a></p>
+        <h2>2-FORTNITE</h2>
+        <img src="final helper 2">
+        <p>Fortnite is an online video game developed by Epic Games and released in 2017. It is available in three distinct game mode versions that otherwise share the same general gameplay and game engine: Fortnite Battle Royale, a free-to-play battle royale game in which up to 100 players fight to be the last person standing; Fortnite: Save the World, a cooperative hybrid tower defense-shooter and survival game in which up to four players fight off zombie-like creatures and defend objects with traps and fortifications they can build; and Fortnite Creative, in which players are given complete freedom to create worlds and battle arenas.
+
+            Save the World and Battle Royale were released in 2017 as early access titles, while Creative was released on December 6, 2018. While the Save the World and Creative versions have been successful for Epic Games, Fortnite Battle Royale in particular became an overwhelming success and a cultural phenomenon, drawing more than 125 million players in less than a year, earning hundreds of millions of dollars per month. Fortnite as a whole generated $9 billion in gross revenue up until December 2019.
+            
+            Save the World is available only for Windows, macOS,[b] PlayStation 4, and Xbox One, while Battle Royale and Creative were released for all those platforms, and also for Nintendo Switch, iOS,[b] and Android devices.[b] The game also launched with the release of the next-generation PlayStation 5 and Xbox Series X/S consoles.</p>
+            <h2>3-Grand Theft Auto V	</h2>
+            <img src="Final helper 3">
+            <p>Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the seventh main entry in the Grand Theft Auto series, following 2008's Grand Theft Auto IV, and the fifteenth instalment overall. Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three protagonists—retired bank robber Michael De Santa, street gangster Franklin Clinton, and drug dealer and gunrunner Trevor Philips—and their attempts to commit heists while under pressure from a corrupt government agency and powerful criminals. The open world design lets players freely roam San Andreas' open countryside and the fictional city of Los Santos, based on Los Angeles.
+
+                The game is played from either a third-person or first-person perspective, and its world is navigated on foot and by vehicle. Players control the three lead protagonists throughout single-player and switch among them, both during and outside missions. The story is centred on the heist sequences, and many missions involve shooting and driving gameplay. A "wanted" system governs the aggression of law enforcement response to players who commit crimes. Grand Theft Auto Online, the game's online multiplayer mode, lets up to 30 players engage in a variety of different cooperative and competitive game modes.
+                
+                The game's development began around the time of Grand Theft Auto IV's release and was shared between many of Rockstar's studios worldwide. The development team drew influence from many of their previous projects such as Red Dead Redemption and Max Payne 3 and designed the game around three lead protagonists to innovate on the core structure of its predecessors. Much of the development work constituted the open world's creation, and several team members conducted field research around California to capture footage for the design team. The game's soundtrack features an original score composed by a team of producers who collaborated over several years. It was released in September 2013 for the PlayStation 3 and Xbox 360, in November 2014 for the PlayStation 4 and Xbox One, in April 2015 for Microsoft Windows, and in March 2022 for the PlayStation 5 and Xbox Series X/S.
+                
+                Extensively marketed and widely anticipated, the game broke industry sales records and became the fastest-selling entertainment product in history, earning $800 million in its first day and $1 billion in its first three days. It received critical acclaim, with praise directed at its multiple protagonist design, open world, presentation and gameplay. However, it caused controversies related to its depiction of violence and women. Considered one of seventh and eighth generation console gaming's most significant titles and among the best video games ever made, it won year-end accolades including Game of the Year awards from several gaming publications. It is the second best-selling video game of all time with over 165 million copies shipped, and as of April 2018, one of the most financially successful entertainment products of all time, with about $6 billion in worldwide revenue.</p>
+                <h2>4-Super Mario Bros</h2>
+                <img src="final helper 4">
+                <p>Super Mario Bros.[b] is a platform game developed and published by Nintendo. The successor to the 1983 arcade game Mario Bros. and the first in the Super Mario series, it was released in 1985 for the Famicom in Japan. Following a limited US release for the Nintendo Entertainment System (NES), it was ported to international arcades for the Nintendo Vs. System in early 1986. The NES version received a wide release in North America that year and in PAL regions in 1987.
+
+                    Players control Mario, or his brother Luigi in the multiplayer mode, as they traverse the Mushroom Kingdom to rescue Princess Toadstool from King Koopa (later named Bowser). They traverse side-scrolling stages while avoiding hazards such as enemies and pits with the aid of power-ups such as the Super Mushroom, Fire Flower, and Starman.
+                    
+                    The game was designed by Shigeru Miyamoto and Takashi Tezuka as "a grand culmination" of the Famicom team's three years of game mechanics and programming, drawing from their experiences working on Devil World and the side-scrollers Excitebike and Kung Fu to advance their previous work on platforming "athletic games" such as Donkey Kong and Mario Bros. The design of the first level, World 1-1, serves as a tutorial for platform gameplay.
+                    
+                    Super Mario Bros. is frequently cited as one of the greatest video games of all time, with praise for its precise controls. It is one of the best-selling games of all time, with more than 58 million copies sold worldwide. It is credited alongside the NES as one of the key factors in reviving the video game industry after the 1983 crash, and helped popularize the side-scrolling platform game genre. Koji Kondo's soundtrack is one of the earliest and most popular in video games, making music into a centerpiece of game design. The game began a multimedia franchise including a long-running game series, an animated television series and a feature film. It has been rereleased on most Nintendo systems. Mario and Super Mario Bros. have become prominent in popular culture.</p>
+                    <h2>5-Age of Empires IV</h2>
+                    <img src="final helper 5">
+                    <p>The game received "generally favorable reviews" according to review aggregator Metacritic.[14]
+
+                        Mobile Syrup wrote that "Age of Empires IV (Age IV) is essentially Age of Empires II with a fresh coat of paint, but that’s entirely okay, especially if you’re a long-time fan of the series like me."[23] While IGN summed up their review by saying "Age of Empires 4 is an enjoyable RTS throwback that often plays it too safe, but excels when it doesn't."[24] Rachel Weber of GamesRadar+ praised the variety of the civilizations, writing, "each has been meticulously designed to offer different gameplay experiences".[25] Game Informer liked the history videos between missions, but criticized how the game didn't seem to innovate on the formula of its predecessor, feeling that Age of Empires IV "lacks any ambition to even gently jostle the standards set by Age of Empires II decades earlier".[26] Hayes Madsen of CGMagazine summed up his 10/10 review by saying "Age of Empires IV is a bold and ambitious evolution of the series, and quite likely one of the best RTS games ever made."[27]
+                        
+                        The Washington Post enjoyed the campaign balancing describing it as how "Every battle feels like it could tip any way at any moment" and that there was a "magic to this design".[28] VG247 felt that the game's commitment to historical accuracy set it apart from its strategy game peers "making Age of Empires 4 more than just another medieval combat simulator".[29] PCGamesN's Ian Boudreau praised the Art of War tutorials, saying they were "hugely helpful for new players who want to understand the nuts and bolts of successful economy management".[30]
+                        
+                        Robert Zak of PC Gamer felt the distinct civilizations were the fourth entry's greatest triumph, calling "the visual and strategic" variety "one of the most significant evolutions in the series". He criticized how he felt the game whitewashed history, saying AOE4's "squeaky-clean presentation skirts around the ickier parts of history".[31] Polygon felt the simplifications from Age of Empire 2's mechanics benefited the game, saying that the changes led "its complications [to] come more from decision-making and strategy than from the minute details of mechanical plays".[32]
+                        
+                        Awards and accolades
+                        Age of Empires IV won the award for Best Sim/Strategy Game at The Game Awards 2021.[33]</p>   
+                    <h2>6-Elden Ring</h2>
+                    <img src="final helper 6">
+                    <p>Elden Ring[a] is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. The game was directed by Hidetaka Miyazaki and made in collaboration with fantasy novelist George R. R. Martin, who provided material for the game's setting. It was released for Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One, and Xbox Series X/S on February 25, 2022.
+
+                        Elden Ring is presented through a third-person perspective, with players freely roaming its interactive open world. Gameplay elements include combat featuring several types of weapons and magic spells, horseback riding, summons, and crafting. The game received critical acclaim, with praise for its open world gameplay, fantasy setting, and evolution of the Souls games, a related series by FromSoftware sharing the same core gameplay. Elden Ring sold more than 13.4 million copies within five weeks of its release.</p>
+                    <h2>7-God of War</h2>
+                    <img src="final helper 7">
+                    <p>God of War is an action-adventure game franchise created by David Jaffe at Sony's Santa Monica Studio. It began in 2005 on the PlayStation 2 (PS2) video game console, and has become a flagship title for the PlayStation brand, consisting of ten games across multiple platforms with an eleventh currently in development. Based in ancient history, the story follows the titular protagonist, Kratos, a Spartan warrior and later the God of War, who was tricked into killing his family by his former master, the original Greek God of war Ares. This sets off a series of events that leads to wars with the pantheons. The Greek era of the series sees Kratos follow a path of vengeance due to the machinations of the Olympian Gods, while the Norse era, which introduces his son Atreus as a secondary protagonist, shows an older Kratos on a path of redemption, which inadvertently brings the two into conflict with the Norse Gods.
+
+                        Santa Monica has developed all main entries, while Ready at Dawn and Javaground/Sony Online Entertainment-Los Angeles (SOE-LA) developed the three side games. Sony Interactive Entertainment (SIE) has published all games except the mobile phone installment, which was published by Sony Pictures Digital. The first seven games make up the Greek era of the franchise. God of War (2005), God of War II (2007), and God of War III (2010) comprise its main trilogy; the first two were released on the PS2 with the third on the PlayStation 3 (PS3). A prequel, Ascension (2013), was also released for the PS3. Other games include Chains of Olympus (2008) and Ghost of Sparta (2010) for the PlayStation Portable (PSP) and Betrayal (2007) for mobile phones that supported the Java Platform, Micro Edition (Java ME). The Norse era began with the 2018 installment that was also titled God of War and released for the PlayStation 4 (PS4) and later Microsoft Windows in January 2022. It was accompanied by a short prequel, A Call from the Wilds (2018), a text-based game through Facebook Messenger. A sequel, Ragnarök, is in development for a 2022 release on the PlayStation 4 and PlayStation 5 and will be the finale to the Norse era.
+                        
+                        Games in the series have been praised as some of the best action games of all time. The series has received numerous awards, including several Game of the Year recognitions for the 2005 and 2018 installments. Some games have also been remastered for newer PlayStation platforms. As of November 2020, the franchise has sold over 51 million games worldwide. Strong sales and support of the series led to the franchise's expansion into other media, such as three comic book series and three novels. A film adaptation of the original installment had been in development but was ultimately canceled. Merchandise includes artwork, clothing, toys, and prop replicas, as well as the games' soundtracks, including a heavy metal album, Blood & Metal (2010), featuring original music by various bands who were inspired by the series.</p>
+                    <h2>8-Deathloop</h2>
+                    <img src="final helper 8">
+                    <p>Awakening from a dream where he is murdered by an unknown woman, later revealed to be the head of security, Julianna Blake, Colt Vahn suddenly wakes up hungover on a beach with no memories of himself or where he is. However, he receives guidance from messages and meetings from alternate versions of himself, instructing him to break the time loop he is trapped in. In order to do this, he must kill all eight Visionaries before time loops at the end of the day. Complicating matters is Julianna Blake, who warns the Visionaries and their followers, the Eternalists, of Colt's plan and calls for him to be hunted down. Julianna also taunts Colt to try and break the loop, even though she works to stop him. Soon, Colt finds that unlike the other inhabitants of the island, he has gained the ability to retain his memories across loops, allowing him to better plan and prepare for his ultimate goal of breaking the loop. He also learns that Julianna appears to retain her memories across loops, as well.
+
+                        While Colt is able to come up with a plan to kill seven of the Visionaries, Julianna remains the most elusive, choosing to hide in the Loop, the structure that powers Blackreef's time loops. The only way to reach the Loop is to use an abandoned rocket plane left behind by the military, so Colt begins investigating all of the old bunkers littered across the island. He eventually comes to learn that he was one of the members of Operation Horizon, the original military expedition to Blackreef decades earlier, but was accidentally sent into the future due to an experiment gone awry. Colt then joined the AEON Program in hopes of finding a way to travel back to the past and reunite with his girlfriend Lila. However, as a consequence of being sent to the future, he discovers that Julianna is in fact his daughter. Colt manages to activate the rocket plane and reach the Loop, where he confronts Julianna directly. Julianna claims that things started to go wrong when Colt, having had second thoughts about the AEON Program, started murdering her in every loop in an effort to free her from it. Julianna eventually grew to hate Colt and began to retaliate, culminating in her starting to hunt him in every loop. Julianna then presents Colt with a choice: kill her and break the loop to suffer whatever uncertain future occurs afterwards, or spare her so they can continue living eternally through the loops.
+                        
+                        If Colt chooses to kill Julianna and commits suicide to break the loop, he wakes back up on the beach with Julianna holding him at gunpoint. She decides to spare him and disappears, leaving him to face the uncertain future alone.
+                        If Colt chooses to kill Julianna but refuses to commit suicide, the loop resets as normal.
+                        If Colt chooses to spare Julianna, they become friends and cooperate with each other to hunt the other inhabitants of Blackreef for fun.</p>
+                    <h2>9-XCOM 2</h2>
+                    <img src="final helper 9">
+                    <p>XCOM 2 is set in 2035, 20 years after the events of XCOM: Enemy Unknown and XCOM: Enemy Within, its expansion pack. XCOM proved incapable of resisting the alien threat and was betrayed by the council nations, who surrendered to the aliens shortly after the invasion began. Most of the XCOM members also submitted to alien rule but some, like Central Officer Bradford, refused the alien administration and went underground to operate as a resistance force. Earth is controlled by the aliens through the puppet ADVENT Administration. ADVENT has done much to improve public opinion of the aliens, especially by the propagation of the belief the aliens came in peace and that the forces of Earth retaliated aggressively and with prejudice.
+
+                        The player assumes the role of the Commander, who had been placed in alien stasis so they could make use of their strategic thinking via a brain implant. After the Commander is rescued by Central Officer Bradford, XCOM launches an attack on an alien convoy and steals an elerium core used to power the Avenger, an alien supply barge that has been converted into XCOM's mobile base.[30] On the Avenger, the Commander has the support of Dr. Richard Tygan, a rogue ADVENT scientist who replaces the missing Dr. Moira Vahlen as Chief Researcher, and Lily Shen, who assumes her late father Dr. Raymond Shen's position as Chief Engineer.</p>
+                        <h2>10-Psychonauts 2</h2>
+                        <img src="final helper 10">
+                        <p>On route to the Motherlobe after capturing Loboto and recovering the comatose body of Truman, Raz joins the other Psychonauts inside Loboto's mind to learn his co-conspirator's identity, but they find his psyche secured against their efforts. However, Raz sees a vision of a woman whom Sasha identifies as Maligula, a cruel hydrokinetic who flooded and destroyed the capital of the fictional nation of Grulovia, Raz’s ancestral homeland. Maligula is believed killed by the Psychic Six, but her followers, the Deluginists, have looked to necromancy to resurrect her. The senior agents also suspect a double agent within the Psychonauts aided Loboto in kidnapping Truman.
+
+                            At the Motherlobe, Hollis assigns Raz to work as an intern in the mail room under Nick. Raz finds Nick's brainless body and a key to a room at the Lady Luctopus Casino. Raz enters Hollis's mind to convince her that sending the interns on the mission would be a good idea. However, once there, Raz's manipulation brings out Hollis's latent gambling addiction, and Raz is forced to undo this to get the mission back on track. Inside the room, Raz finds evidence of the Deluginists as well as a slip of paper indicting Lili as the double agent, which he keeps to himself.
+                            
+                            Raz returns to Lili by Truman's side to reveal the paper he found but she refuses to believe it and runs off. To Raz's surprise, Truman speaks to him, his silent state an act. Truman urges Raz to bring Ford Cruller to the Motherlobe and reconstitute his split personalities, as he holds the secret behind Maligula. Raz does so, along the way helping the other Psychic Six members with their own mental traumas that had developed after their fight with Maligula. Once Ford is whole, he explains to Raz that Maligula is really Lucrecia "Lucy" Mux, the previously-unknown seventh member of the Psychic Six who was in a romantic relationship with Ford. Lucrecia returned to her Grulovia homeland to quell an uprising, but under the abusive treatment of Grulovia's leader Gzar Theodore, Lucrecia had created the Maligula personality as a fight or flight complex. Maligula went out of control, flooding the country, killing peaceful protestors and forcing the Gzar and his family into exile in fear. The Psychic Six defeated Maligula, but instead of killing her, Ford secretly used one of Otto's inventions, the Astralathe, to alter Lucrecia's mind to bury the Maligula personality deep inside her and to make Lucrecia believe she was Marona "Nona" Aquato (Razputin's Grandmother), her sister who had died in the flooding. Ford also altered Marona's son Augustus' memories to accept Lucrecia as his mother. Finally, Ford split his own mind with the Astralathe to hide this secret and forget about Lucrecia. Raz, horrified by the revelation, wants to warn his family, but Ford warns that this might unleash Maligula by their revenge for her crimes if they remember.
+                            
+                            Ford and Raz find Nona in the nearby Green Needle Gulch, the home of the Psychic Six, where the Astralathe is kept. Nona shows signs of remembering her time as Lucrecia, and Ford determines that with the help of the Psychic Six, they need to use the Astralathe to create a further hole in Nona's mind to banish the Maligula personality for good. Within Nona's mind, they learn that she had been already recalling elements of Lucrecia much earlier, as she was the one to convince Raz to go to Whispering Rock as an indirect means to call for help from the Psychonauts. As Ford and Raz prepare to banish Maligula, Raz is suddenly pulled out of Nona's mind by Truman. Finding Truman's actions suspicious, Raz enters his mind accompanied by Lili and they discover that his brain is actually that of Gristol Malik, Gzar Theodore's spoiled son. Malik posed as Nick to infiltrate the Psychonauts and get revenge for his family's fall from grace, and instituted a plan to have Loboto replace Truman's brain with his, using Truman's position to revive Maligula, destroy the Psychonauts and reconquer Grulovia.
+                            
+                            The rest of the Psychonauts arrive too late to prevent Maligula's reawakening, which takes them all but Raz and Lili by a hurricane storm. As Lili goes away to find Truman's brain, Raz races back to his family, who figured the truth out as Augustus has regained his lost memories, but they still assist Raz in reaching her and entering her mind. Raz battles Maligula with the other interns, weakening her until Nona can come out inside, and both work together to push Maligula into the dark depths created by the Astralathe. As Nona is returned to her family and pardoned by the Psychonauts, Truman's brain is returned to his body while Gristol Malik is put in psychoisolation for his crimes, and Raz and the interns graduate and are pronounced junior agents. In a post-credits scene, Raz witnesses Loboto escaping back to Whispering Rock to pick up his child.</p>
+    </body>
+</html>

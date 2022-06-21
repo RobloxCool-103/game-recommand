@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <style>
+            p{
+                color: blue;
+                background-color: brown;
+            }
+            p:hover{
+                color: beige;
+                background-color: yellowgreen;
+            }
+            h1{
+                color: cadetblue;
+                background-color: burlywood;
+            }
+            h1:hover{
+                color: cornflowerblue;
+                background-color: aquamarine;
+            }
+            h2{
+                color: crimson;
+                background-color: rgb(87, 130, 83);
+            }
+            h2:hover{
+                color:dimgray;
+                background-color: goldenrod;
+            }
+        </style>
+        <body>
+            <h1>Roblox</h1>
+            <h2>Website link</h2>
+            <p>https://www.roblox.com/</p>
+            <h1>Fortnite</h1>
+            <h2>Download link</h2>
+            <p>https://www.epicgames.com/fortnite/en-US/home</p>
+            <h1>Grand Theft Auto V</h1>
+            <h2>Download link</h2>
+            <p>https://game.nongphu.net/gta-5-codes-and-how-to-enter-on-ps-xbox-and-pc/?gclid=EAIaIQobChMIxqCE1_eO-AIVWeh3Ch0tIwXREAAYASAAEgKBSPD_BwE</p>
+            <h1>Super Mario Bros</h1>
+            <h2>Website link</h2>
+            <p>https://supermario-game.com/</p>
+            <h1>Age of Empires IV</h1>
+            <h2>Website link</h2>
+            <p>https://lp.empire.goodgamestudios.com/?country=us&pid=7013&gid=12&creative=535423401745&placement=&keyword=empires%20games&matchtype=p&gci=14771&adgr=23&nomobileredirect=1&gclid=EAIaIQobChMI29_mrPiO-AIVi41oCR3M7AeBEAAYAiAAEgK-tPD_BwE</p>
+        </body>
+    </head>
+</html>

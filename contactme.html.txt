@@ -1,0 +1,8 @@
+<html>
+    <head></head>
+    <body>
+        <h1>Contact us</h1>
+        <h2>E-mail</h2>
+        <p>E-mail=<i>ultramagicbikers.feedback@gmail.com</i></p>
+    </body>
+</html>
